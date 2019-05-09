@@ -12,7 +12,7 @@ You will be able to:
 
 ## Hypothesis Testing
 
-In this section, you'll be looking at .....
+In this section, you'll be looking at experimental design, effect size, T-tests and Type 1 and Type 2 errors.
 
 ### Experimental Design
 

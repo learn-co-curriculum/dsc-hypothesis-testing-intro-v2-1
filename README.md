@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 20 and why they'll be important to you as a data scientist.
+In this section, you'll learn about experimental design and hypothesis testing. All scientific research that comes out of universities uses hypothesis testing to determine if the results of an experiment are significant or not. As a data scientist you might be tasked with designing, performing, and analyzing the results of an experiment.
 
 ## Objectives
 You will be able to:

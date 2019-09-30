@@ -2,12 +2,12 @@
 # Introduction
 
 ## Introduction
-In this section, you'll learn about experimental design and hypothesis testing. All scientific research that comes out of universities uses hypothesis testing to determine if the results of an experiment are significant or not. As a data scientist you might be tasked with designing, performing, and analyzing the results of an experiment.
+In this section, you'll learn about experimental design and hypothesis testing. All scientific research that comes out of universities uses hypothesis testing to determine if the results of an experiment are significant or not. As a data scientist, you might be tasked with designing, performing, and analyzing the results of an experiment.
 
 ## Objectives
 You will be able to:
 * Understand and explain what is covered in this section
-* Understand and explain why the section will help you to become a data scientist
+* Understand and explain why this section will help you to become a data scientist
 
 
 ## Hypothesis Testing

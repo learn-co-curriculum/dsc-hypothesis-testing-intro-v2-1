@@ -2,12 +2,12 @@
 # Hypothesis Testing - Introduction
 
 ## Introduction
-In this section, you'll learn about experimental design and hypothesis testing. All scientific research that comes out of universities uses hypothesis testing to determine if the results of an experiment are significant or not. As a data scientist, you might be tasked with designing, performing, and analyzing the results of an experiment.
+In this section, you'll learn about experimental design and hypothesis testing. All scientific research that comes out of universities uses hypothesis testing to determine if the results of an experiment are significant or not. As a data scientist, you might be tasked with designing, performing, and analyzing the results of an experiment. Finally, you'll also learn about resampling methods, which are modern statistical techniques that involve taking repeated subsamples from a sample and help better estimate the precision of your sample statistics.
 
 
 ## Hypothesis Testing
 
-In this section, you'll be looking at experimental design, effect size, T-tests and Type 1 and Type 2 errors.
+In this section, you'll be looking at experimental design, effect size, T-tests, Type 1 and Type 2 errors, and resampling techniques like the jackknife, bootstrap, and permutation tests.
 
 ### Experimental Design
 
@@ -24,6 +24,10 @@ Next, you'll also look at t-tests and how they can be used to compare two averag
 ### Type 1 and Type 2 Errors
 
 From there, you'll learn about **type 1 (false positive)** and **type 2 (false negative) errors** and the inherent tradeoff between them.
+
+### Jackknife, Bootstrap, and Permutation Tests
+
+We'll look at techniques for taking repeated subsamples from a sample using bootstrapping, jackknife and permutation tests to better estimate the precision of your sample statistics or validate models by using random subsets.
 
 ## Summary
 
